@@ -1,0 +1,25 @@
+{
+  "name": "next-fallback-csr",
+  "version": "1.0.0",
+  "description": "nextjs downgrades to csr",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "keywords": [
+    "nextjs",
+    "SSR",
+    "CSR",
+    "Nextjs"
+  ],
+  "files": [
+    "dist/index.js",
+    "dist/index.d.ts"
+  ],
+  "author": "niaogege66@gmail.com",
+  "packageManager": "pnpm@7.21.0",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.2"
+  }
+}
